@@ -1,15 +1,17 @@
 # Experiment--05-4X4-keypad-interface-with-LPC2148
 
 Name :
-Roll no 
+
+Roll no :
+
 Date of experiment :
 
  
 ### Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller 
 
-Aim: To Interface 4x4 keypad interface  LPC2148 ARM 7 and write a code for displaying the inputs on a 16x2 lcd 
-Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
-Theory 
+## Aim: To Interface 4x4 keypad interface  LPC2148 ARM 7 and write a code for displaying the inputs on a 16x2 lcd 
+## Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
+## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
 What is an ARM7 Processor?
