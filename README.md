@@ -4,11 +4,8 @@ Name :
 Roll no 
 Date of experiment :
 
-
-
-Ex. No. :6
-Date: 
-Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller 
+ 
+### Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller 
 
 Aim: To Interface 4x4 keypad interface  LPC2148 ARM 7 and write a code for displaying the inputs on a 16x2 lcd 
 Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
@@ -141,7 +138,11 @@ Figure -11 Hex file for simulation
 Step 9: Select the hex file from the Kiel program folder and import the program in to the microcontroller as shown in figure 11 ,  debug and if no errors in connections are found, run the VSM simulation to view the output.
 
 
-## Kiel - Program 
+## Kiel - Program:
+
+
+
+
 ## Output screen shots :
 
 ## Result :
