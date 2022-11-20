@@ -1,10 +1,10 @@
 # Experiment--05-4X4-keypad-interface-with-LPC2148
 
-Name :
+Name : M.Vidya Neela
 
-Roll no :
+Roll no : 212221230120
 
-Date of experiment :
+Date of experiment :03.11.2022
 
  
 ### Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller 
@@ -67,7 +67,7 @@ With that current flow a positive voltage of +5V appears at R3 pin. Since all RO
 Procedure:
 For creation of project on    Kiel μ vision 5 Development environment (LPC21 XX/48/38)
 1.	Click on the menu Project — New µVision Project creates a new project. Select an empty folder and enter the project name, for example Project1. It is good practice to use a separate folder for each project.
-2.	Next, the dialog Select Device for Target opens.
+.	Next, the dialog Select Device for Target opens.
 
  ![image](https://user-images.githubusercontent.com/36288975/198944870-21526748-6345-436d-89c5-07b3902775b0.png)
 
